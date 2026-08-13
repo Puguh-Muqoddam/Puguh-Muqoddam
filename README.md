@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Puguh-Muqoddam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Puguh+Muqoddam;Legislative+%26+Policy+Enthusiast;Organizational+Development+Lead;Student+of+Islamic+Economics" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Puguh+Muqoddam;Legislative+%26+Policy+Enthusiast;Organizational+Development+Lead;Student+of+Islamic+Economics" alt="Typing SVG" />
   </a>
 </p>
 
@@ -58,10 +58,12 @@ I'm an **Islamic Economics** student at **Universitas Airlangga** from **Bangkal
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
   <br/>
   <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/DeepSeek-0A6EBD?style=for-the-badge&logo=chatbot&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
 </p>
 
 <br/>
