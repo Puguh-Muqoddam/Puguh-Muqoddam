@@ -82,11 +82,6 @@ I'm an **Islamic Economics** student at **Universitas Airlangga** from **Bangkal
 
 <p align="center">
   <a href="https://github.com/Puguh-Muqoddam">
-    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Puguh-Muqoddam&show_icons=true&theme=github_dark&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=false&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Puguh-Muqoddam">
     <img width="80%" src="https://streak-stats.demolab.com/?user=Puguh-Muqoddam&theme=github-dark-blue&background=0d1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d" alt="GitHub Streak" />
   </a>
 </p>
